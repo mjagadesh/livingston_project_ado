@@ -1,5 +1,9 @@
 [
+<<<<<<< HEAD
     changes made by swetha,
+=======
+    "Name0=Jagadesh made the changes",
+>>>>>>> af2dbdf5601ae15c51443eca86a0c67d36f7581a
     "Name1=/source/evolve/account_of_cust/db_name",
     "Description1=DB name containing this table",
     "Type1=String",
